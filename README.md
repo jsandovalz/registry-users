@@ -8,11 +8,14 @@
 
 ## Technologies
 * Spring Boot 3.0
+* Java 18
+* Spring JPA 
 * Spring Security
+* H2
 * JSON Web Tokens (JWT)
 * Maven
 * Swagger
-* lombock library
+* lombok library
 * Junit
 
 ## Getting Started
